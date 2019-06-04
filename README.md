@@ -1,4 +1,4 @@
-## eve-esi-ts-client@1.2.0
+## eve-esi-ts-client@1.3.0
 
 ### Building
 
